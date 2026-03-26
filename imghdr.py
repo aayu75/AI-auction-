@@ -1,1 +1,1 @@
-import imghde
+import imghdr
